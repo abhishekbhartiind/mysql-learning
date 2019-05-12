@@ -74,4 +74,8 @@ SELECT name, birth FROM pet ORDER BY birth DESC;
 
 ```
 
+Major Queries
+
+
+
  
